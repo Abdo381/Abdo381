@@ -112,19 +112,32 @@ My academic and technical work extends beyond a single AI technology.
 
 ### AI / Data Ecosystem
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-</p>
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="15" width="150" height="50" rx="10" fill="#3776AB"/>
+<text x="95" y="47" text-anchor="middle" fill="white" font-family="Arial" font-size="18">Python</text>
+
+<rect x="190" y="15" width="150" height="50" rx="10" fill="#FF6F00"/>
+<text x="265" y="47" text-anchor="middle" fill="white" font-family="Arial" font-size="18">TensorFlow</text>
+
+<rect x="360" y="15" width="150" height="50" rx="10" fill="#EE4C2C"/>
+<text x="435" y="47" text-anchor="middle" fill="white" font-family="Arial" font-size="18">PyTorch</text>
+
+<rect x="530" y="15" width="150" height="50" rx="10" fill="#F7931E"/>
+<text x="605" y="47" text-anchor="middle" fill="white" font-family="Arial" font-size="18">Scikit-learn</text>
+
+<rect x="700" y="15" width="150" height="50" rx="10" fill="#FFD21E"/>
+<text x="775" y="47" text-anchor="middle" fill="black" font-family="Arial" font-size="18">Hugging Face</text>
+</svg>
+
+</div>
+
+<div align="center">
+
+`NumPy` · `Pandas` · `FAISS` · `NLP` · `Machine Learning` · `Deep Learning`
+
+</div>
 
 ---
 
@@ -132,43 +145,63 @@ My academic and technical work extends beyond a single AI technology.
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs" alt="Languages"/>
-</p>
+<div align="center">
+
+<svg width="100%" height="65" viewBox="0 0 900 65" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="25" y="10" width="120" height="45" rx="8" fill="#777BB4"/>
+<text x="85" y="39" text-anchor="middle" fill="white" font-family="Arial" font-size="17">PHP</text>
+
+<rect x="155" y="10" width="120" height="45" rx="8" fill="#F7DF1E"/>
+<text x="215" y="39" text-anchor="middle" fill="black" font-family="Arial" font-size="17">JavaScript</text>
+
+<rect x="285" y="10" width="120" height="45" rx="8" fill="#3178C6"/>
+<text x="345" y="39" text-anchor="middle" fill="white" font-family="Arial" font-size="17">TypeScript</text>
+
+<rect x="415" y="10" width="120" height="45" rx="8" fill="#3776AB"/>
+<text x="475" y="39" text-anchor="middle" fill="white" font-family="Arial" font-size="17">Python</text>
+
+<rect x="545" y="10" width="120" height="45" rx="8" fill="#00599C"/>
+<text x="605" y="39" text-anchor="middle" fill="white" font-family="Arial" font-size="17">C++</text>
+
+<rect x="675" y="10" width="120" height="45" rx="8" fill="#68217A"/>
+<text x="735" y="39" text-anchor="middle" fill="white" font-family="Arial" font-size="17">C#</text>
+
+</svg>
+
+</div>
 
 ### Backend & Web
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,angular,react,nextjs" alt="Backend and Web Technologies"/>
-</p>
+<div align="center">
+
+`Laravel` · `Node.js` · `Express` · `Angular` · `React` · `Next.js`
+
+</div>
 
 ### Databases & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases"/>
-</p>
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OLAP-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive%20Modeling-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Processing-334155?style=for-the-badge"/>
-</p>
+`MySQL` · `SQL Server` · `MongoDB` · `Data Analytics` · `OLAP` · `Predictive Modeling`
+
+</div>
 
 ### APIs, Architecture & Engineering
 
-<p>
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOAP-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Enterprise%20Systems-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-334155?style=for-the-badge"/>
-</p>
+<div align="center">
+
+`REST APIs` · `SOAP` · `Enterprise Systems` · `Automation` · `System Integration`
+
+</div>
 
 ### Tools & Environment
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker" alt="Tools"/>
-</p>
+<div align="center">
+
+`Git` · `GitHub` · `Linux` · `Docker`
+
+</div>
 
 ---
 
@@ -244,35 +277,17 @@ My undergraduate foundation in **Information Technology** established the core s
 
 ## Areas of Interest
 
-<p align="center">
+<div align="center">
 
-`Software Architecture`
+`Software Architecture` · `Enterprise Systems` · `Backend Engineering`
 
-`Enterprise Systems`
+`Automation` · `Data Science` · `Machine Learning` · `Deep Learning`
 
-`Backend Engineering`
+`Natural Language Processing` · `Data Analytics` · `Predictive Modeling`
 
-`Automation`
+`Intelligent Systems` · `Generative AI` · `Enterprise AI`
 
-`Data Science`
-
-`Machine Learning`
-
-`Deep Learning`
-
-`Natural Language Processing`
-
-`Data Analytics`
-
-`Predictive Modeling`
-
-`Intelligent Systems`
-
-`Generative AI`
-
-`Enterprise AI`
-
-</p>
+</div>
 
 ---
 
@@ -292,13 +307,15 @@ My undergraduate foundation in **Information Technology** established the core s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdo381&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdo381&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo381&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<br>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo381&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Abdo381&hide_border=true&theme=transparent" />
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Abdo381&hide_border=true&theme=transparent" alt="GitHub Streak"/>
 
 </div>
 
