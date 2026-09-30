@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman%20Abdo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman%20Abdo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20and%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%" alt="Abdelrahman Abdo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Engineering+Enterprise+Software+%26+Intelligent+Systems;Backend+Systems+%7C+Architecture+%7C+Automation;Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Business+Problems+into+Software%2C+Data%2C+and+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Engineering+Enterprise+Software+%26+Intelligent+Systems;Backend+Systems+%7C+Architecture+%7C+Automation;Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Business+Problems+into+Software%2C+Data%2C+and+Intelligence" alt="Typing animation"/>
 
 <br><br>
 
 <a href="https://github.com/Abdo381">
-<img src="https://img.shields.io/badge/GitHub-Abdo381-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Abdo381-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 </div>
@@ -181,7 +181,7 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs" alt="Programming Languages"/>
 
 </div>
 
@@ -189,7 +189,7 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,angular,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,angular,react,nextjs" alt="Backend and Frameworks"/>
 
 </div>
 
@@ -197,15 +197,15 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL%20Server-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OLAP-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive%20Modeling-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Server-1e293b?style=for-the-badge" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Data%20Science-1e293b?style=for-the-badge" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-1e293b?style=for-the-badge" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/OLAP-1e293b?style=for-the-badge" alt="OLAP"/>
+<img src="https://img.shields.io/badge/Predictive%20Modeling-1e293b?style=for-the-badge" alt="Predictive Modeling"/>
 
 </div>
 
@@ -213,10 +213,10 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AJAX-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Socket.io-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge" alt="SOAP"/>
+<img src="https://img.shields.io/badge/AJAX-1e293b?style=for-the-badge" alt="AJAX"/>
+<img src="https://img.shields.io/badge/Socket.io-1e293b?style=for-the-badge" alt="Socket.io"/>
 
 </div>
 
@@ -224,12 +224,12 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker" alt="Engineering Tools"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Automation-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Enterprise%20Systems-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-1e293b?style=for-the-badge" alt="Automation"/>
+<img src="https://img.shields.io/badge/Enterprise%20Systems-1e293b?style=for-the-badge" alt="Enterprise Systems"/>
 
 </div>
 
@@ -241,9 +241,9 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
 </div>
 
@@ -251,9 +251,9 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 
 </div>
 
@@ -261,8 +261,8 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
 
 <br><br>
 
@@ -433,13 +433,13 @@ Continuous development across:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdo381&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdo381&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo381&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo381&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Abdo381&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abdo381&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -449,7 +449,7 @@ Continuous development across:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdo381/Abdo381/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Abdo381/Abdo381/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -466,11 +466,11 @@ Continuous development across:
 <br>
 
 <a href="https://github.com/Abdo381">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="Explore My Work"/>
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:312e81,50:1e293b,100:0f172a&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:312e81,50:1e293b,100:0f172a&section=footer" width="100%" alt="Footer"/>
