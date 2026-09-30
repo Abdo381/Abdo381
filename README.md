@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman%20Abdo&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Software+%26+Intelligent+Systems;Software+Engineering+%7C+Data+Science+%7C+AI;Enterprise+Applications+%7C+Automation+%7C+Analytics;Learning%2C+Building%2C+and+Exploring+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Software+%26+Intelligent+Systems;Software+Engineering+%7C+Data+Science+%7C+AI;Enterprise+Applications+%7C+Automation+%7C+Analytics;Learning%2C+Building%2C+and+Exploring+AI" />
 
 <br><br>
 
@@ -11,6 +11,7 @@
 </a>
 
 </div>
+
 
 ---
 
