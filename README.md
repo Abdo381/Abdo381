@@ -6,26 +6,27 @@
 
 <br><br>
 
-<a href="https://github.com/Abdo381"> <img src="https://img.shields.io/badge/GitHub-Abdo381-181717?style=flat-square&logo=github"/> </a>
+<a href="https://github.com/Abdo381">
+<img src="https://img.shields.io/badge/GitHub-Abdo381-181717?style=flat-square&logo=github"/>
+</a>
 
 </div>
 
+---
+
+## Hello, I'm Abdelrahman
+
+I'm a **Software Engineer** interested in building systems where software engineering, data, and artificial intelligence come together.
+
+My professional work focuses on **enterprise applications, backend systems, integrations, and automation**, while my academic journey in **Data Science & Artificial Intelligence** expands into machine learning, deep learning, NLP, analytics, and intelligent systems.
+
+I enjoy taking a problem from:
+
+**Idea → Data → Software → Intelligence → Automation**
 
 ---
 
-## About Me
-
-I'm a **Software Engineer** focused on building enterprise applications, backend systems, integrations, and automation platforms.
-
-Alongside my professional work, I'm pursuing an **MSc in Data Science & Artificial Intelligence**, exploring how data, machine learning, and AI can be applied to real-world software systems.
-
-My work and interests sit at the intersection of:
-
-**Software Engineering · Data Science · Artificial Intelligence · Automation**
-
----
-
-## What I Do
+## What I Work With
 
 <table>
 <tr>
@@ -36,21 +37,24 @@ My work and interests sit at the intersection of:
 * Backend & Full Stack Development
 * Software Architecture
 * Enterprise Applications
-* APIs & System Integrations
+* REST & SOAP APIs
 * Database Systems
-* Business Process Automation
+* System Integrations
+* Automation & Workflows
 
 </td>
 
 <td width="50%" valign="top">
 
-### Data & AI
+### Data & Artificial Intelligence
 
-* Data Science & Analytics
+* Data Science
 * Machine Learning
 * Deep Learning
 * Natural Language Processing
+* Data Analytics
 * Predictive Modeling
+* Generative AI
 * Intelligent Systems
 
 </td>
@@ -59,41 +63,11 @@ My work and interests sit at the intersection of:
 
 ---
 
-## What I Build
-
-**Enterprise Software**
-
-Business applications, backend platforms, APIs, databases, and integrations built around real operational workflows.
-
-**Automation & Intelligent Workflows**
-
-Automated processes connecting applications, APIs, databases, emails, and enterprise systems.
-
-**Data & Analytics**
-
-Data processing, analytical systems, OLAP, business intelligence, and predictive solutions.
-
-**AI Applications**
-
-Machine learning, NLP, intelligent applications, and AI capabilities integrated into software systems.
-
----
-
 ## Technology
 
-### Development
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,laravel,nodejs,express,angular,react,nextjs" />
-
-</div>
-
-### Data & Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,laravel,nodejs,express,angular,react,nextjs,mysql,mongodb,git,github,linux,docker" />
 
 </div>
 
@@ -105,76 +79,86 @@ Machine learning, NLP, intelligent applications, and AI capabilities integrated 
 <img src="https://img.shields.io/badge/Deep%20Learning-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Science-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/OLAP-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/OLAP%20%26%20Analytics-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Generative%20AI-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Intelligent%20Automation-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-333333?style=flat-square"/>
 
 </div>
 
 ---
 
-## From Software to Intelligence
+## What I Build
 
-<div align="center">
+I work on software that connects **business processes, data, and intelligent capabilities**.
+
+**Enterprise Systems**
+Business applications, backend services, databases, APIs, and integrations.
+
+**Automation Platforms**
+Workflow automation, email-driven processes, scheduled jobs, and system integrations.
+
+**Data & Analytics**
+Data processing, analytics, OLAP, business intelligence, and predictive solutions.
+
+**AI Applications**
+Machine learning, NLP, generative AI, AI assistants, and intelligent automation.
+
+---
+
+## From Software to AI
 
 ```text
 Software Engineering
         │
-        ▼
-Enterprise Applications
-        │
-        ▼
-Data & Analytics
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
-Intelligent Applications
-        │
-        ▼
-Automation
+        ├── Applications
+        ├── APIs
+        ├── Databases
+        └── Automation
+                │
+                ▼
+             Data
+                │
+        ┌───────┴───────┐
+        ▼               ▼
+    Analytics      Machine Learning
+        │               │
+        └───────┬───────┘
+                ▼
+       Artificial Intelligence
+                │
+                ▼
+       Intelligent Applications
 ```
-
-</div>
 
 ---
 
 ## Academic Journey
 
-### MSc — Data Science & Artificial Intelligence
+**MSc — Data Science & Artificial Intelligence**
 
-**Helwan University — Faculty of Computers, Information & Artificial Intelligence**
+Helwan University
+Faculty of Computers, Information & Artificial Intelligence
 
 Exploring the intersection of:
 
-`Data Science` · `Machine Learning` · `Deep Learning` · `Artificial Intelligence`
-
-with practical applications in software and business systems.
+`Data` · `Algorithms` · `Machine Learning` · `AI` · `Software Systems`
 
 ---
 
-## Areas of Interest
+## Currently Exploring
 
 <div align="center">
 
-`Software Architecture` · `Data Science` · `Machine Learning`
+`Machine Learning` · `Deep Learning` · `NLP` · `Data Engineering`
 
-`Deep Learning` · `Natural Language Processing` · `Data Analytics`
-
-`OLAP` · `Predictive Modeling` · `Intelligent Automation`
-
-`Generative AI` · `Intelligent Systems`
+`Generative AI` · `AI Agents` · `Intelligent Automation` · `Enterprise AI`
 
 </div>
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
@@ -192,7 +176,7 @@ with practical applications in software and business systems.
 
 <div align="center">
 
-### Building software. Working with data. Exploring intelligent systems.
+### Building software. Exploring data. Creating intelligent systems.
 
 <br>
 
