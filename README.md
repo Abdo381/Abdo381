@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman%20Abdo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20and%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%" alt="Abdelrahman"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20and%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%" alt="Abdelrahman"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Engineering+Enterprise+Software+%26+Intelligent+Systems;Backend+Systems+%7C+Architecture+%7C+Automation;Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Business+Problems+into+Software%2C+Data%2C+and+Intelligence" alt="Typing animation"/>
 
