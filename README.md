@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/badge/GitHub-Abdo381-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
 </div>
 
 ---
@@ -126,7 +122,7 @@ Exploring how machine learning, NLP, generative AI, and other intelligent method
 
 ## Software Engineer / Full Stack Developer
 
-**The Translation Gate · 2024 — Present**
+**The Translation Gate · Jan 2024 — Present**
 
 Working on enterprise software and business systems across application development, backend engineering, integrations, automation, and data-driven workflows.
 
@@ -179,7 +175,9 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 # Technology Stack
 
-## Languages
+## Main Software Engineering Stack
+
+### Languages
 
 <div align="center">
 
@@ -187,7 +185,7 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 </div>
 
-## Backend & Frameworks
+### Backend & Frameworks
 
 <div align="center">
 
@@ -195,7 +193,7 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 </div>
 
-## Data & Databases
+### Data & Databases
 
 <div align="center">
 
@@ -203,6 +201,7 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <br><br>
 
+<img src="https://img.shields.io/badge/SQL%20Server-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Science-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OLAP-1e293b?style=for-the-badge"/>
@@ -210,22 +209,18 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 </div>
 
-## Machine Learning & AI
+### APIs & Integration
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AJAX-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.io-1e293b?style=for-the-badge"/>
 
 </div>
 
-## Engineering & Infrastructure
+### Engineering & Infrastructure
 
 <div align="center">
 
@@ -233,10 +228,47 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 
 <br><br>
 
-<img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Enterprise%20Systems-1e293b?style=for-the-badge"/>
+
+</div>
+
+---
+
+## Data Science & AI Stack
+
+### Scientific Computing & Data
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</div>
+
+### Machine Learning & Deep Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</div>
+
+### NLP & Intelligent Systems
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+<br><br>
+
+`NLP` · `Semantic Similarity` · `Information Retrieval`
+
+`Generative AI` · `Intelligent Applications`
 
 </div>
 
@@ -287,6 +319,8 @@ Rather than treating AI as an isolated technology, I focus on how intelligent me
 **Helwan University**
 Faculty of Computers, Information & Artificial Intelligence
 
+**In Progress**
+
 Current areas of study and exploration include:
 
 `Data Science` · `Machine Learning` · `Deep Learning`
@@ -297,7 +331,43 @@ with a focus on applying academic concepts to practical software and business pr
 
 ---
 
-## Academic & Technical Interests
+## BSc — Information Technology
+
+**Bachelor's Degree in Information Technology**
+
+My undergraduate studies in **Information Technology** established my foundation in software development, databases, networking, computer systems, and information technology, which I continue to build upon through professional software engineering and graduate-level Data Science & AI study.
+
+---
+
+# Certifications & Professional Training
+
+## National Telecommunication Institute — NTI
+
+### Laravel
+
+Professional training in **Laravel and PHP web application development**.
+
+### Node.js
+
+Professional training in **Node.js and backend JavaScript development**.
+
+### CCNA
+
+Professional networking training covering **Cisco networking fundamentals and CCNA concepts**.
+
+---
+
+## IBM
+
+**AI / Data Analysis Certification**
+
+Continuous development across:
+
+`Software Engineering` · `Data Science` · `Machine Learning` · `Artificial Intelligence`
+
+---
+
+# Academic & Technical Interests
 
 <div align="center">
 
@@ -320,22 +390,6 @@ with a focus on applying academic concepts to practical software and business pr
 ### Intelligent Systems
 
 `Generative AI` · `Intelligent Automation` · `AI Applications`
-
-</div>
-
----
-
-# Certifications & Continuous Learning
-
-<div align="center">
-
-**IBM — AI / Data Analysis**
-
-<br>
-
-Continuous development across:
-
-`Software Engineering` · `Data Science` · `Machine Learning` · `Artificial Intelligence`
 
 </div>
 
