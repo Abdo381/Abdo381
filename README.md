@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman%20Abdo&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:312e81&text=Abdelrahman%20Abdo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Enterprise+Software+%26+Intelligent+Systems;Software+Engineering+%7C+Data+Science+%7C+Artificial+Intelligence;Backend+Systems+%7C+Automation+%7C+Analytics;Engineering+with+Data%2C+Software%2C+and+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Engineering+Enterprise+Software+%26+Intelligent+Systems;Backend+Systems+%7C+Architecture+%7C+Automation;Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Business+Problems+into+Software%2C+Data%2C+and+Intelligence" />
 
 <br><br>
 
@@ -10,17 +10,23 @@
 <img src="https://img.shields.io/badge/GitHub-Abdo381-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I'm a **Software Engineer** focused on building enterprise applications, backend systems, integrations, and automation platforms.
+I'm a **Software Engineer** focused on designing and building enterprise applications, backend systems, integrations, automation platforms, and data-driven solutions.
 
-Alongside my professional work, I'm pursuing an **MSc in Data Science & Artificial Intelligence**, expanding my work into machine learning, deep learning, natural language processing, analytics, and intelligent systems.
+My professional work spans the full software lifecycle — from understanding business workflows and designing application architecture to implementing backend services, APIs, databases, integrations, automation, and intelligent capabilities.
 
-My work sits at the intersection of:
+Alongside my professional work, I'm pursuing an **MSc in Data Science & Artificial Intelligence**, expanding my work into machine learning, deep learning, natural language processing, data analytics, and intelligent systems.
+
+My interests sit at the intersection of:
 
 <div align="center">
 
@@ -28,30 +34,43 @@ My work sits at the intersection of:
 
 </div>
 
-I enjoy working across the full path from:
+I enjoy connecting the different layers of a system:
 
-<div align="center">
-
-**Business Problems → Data → Software → Intelligence → Automation**
-
-</div>
+```text
+Business Problem
+       ↓
+Software & Architecture
+       ↓
+Data & Systems
+       ↓
+Analytics & Machine Learning
+       ↓
+Artificial Intelligence
+       ↓
+Intelligent Applications
+       ↓
+Automation
+```
 
 ---
 
-## What I Do
+# What I Work On
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Software Engineering
+## Software Engineering
 
+* Enterprise Applications
 * Backend & Full Stack Development
 * Software Architecture
-* Enterprise Applications
-* APIs & System Integrations
+* REST & SOAP APIs
 * Database Systems
-* Business Process Automation
+* System Integrations
+* Business Workflows
+* Automation Platforms
 * Legacy System Evolution
 * Data-Driven Applications
 
@@ -59,7 +78,7 @@ I enjoy working across the full path from:
 
 <td width="50%" valign="top">
 
-### Data & Artificial Intelligence
+## Data & AI
 
 * Data Science & Analytics
 * Machine Learning
@@ -67,70 +86,100 @@ I enjoy working across the full path from:
 * Natural Language Processing
 * Predictive Modeling
 * Information Retrieval
+* Semantic Search
 * Intelligent Systems
+* Generative AI
 * AI-Powered Applications
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## What I Build
+# Engineering Focus
 
-### Enterprise Applications
+### Enterprise Software
 
-Business applications and backend platforms designed around real operational workflows, databases, APIs, integrations, and business processes.
+Building business applications and backend platforms around real operational workflows, with an emphasis on maintainability, integration, data consistency, and system architecture.
 
-### Automation & Integrations
+### Backend & APIs
 
-Automated workflows connecting applications, emails, APIs, databases, scheduled processes, and external services.
+Designing application services, REST/SOAP integrations, database-driven systems, asynchronous workflows, and backend components that connect different parts of an organization.
+
+### Automation
+
+Turning repetitive business processes into reliable workflows across applications, APIs, databases, email systems, scheduled processes, and external services.
 
 ### Data & Analytics
 
-Data processing, analytical systems, OLAP, business intelligence, statistical analysis, and predictive solutions.
+Transforming operational data into analytical systems through preprocessing, data modeling, OLAP, business intelligence, statistical analysis, and predictive modeling.
+
+### Intelligent Software
+
+Exploring how machine learning, NLP, generative AI, and other intelligent methods can be integrated into existing software and business workflows.
+
+---
+
+# Professional Experience
+
+## Software Engineer / Full Stack Developer
+
+**The Translation Gate · 2024 — Present**
+
+Working on enterprise software and business systems across application development, backend engineering, integrations, automation, and data-driven workflows.
+
+### Areas of Work
+
+* Enterprise application development
+* Backend and full-stack engineering
+* PHP and Laravel-based systems
+* API development and system integrations
+* REST and SOAP services
+* Relational database systems
+* Business process automation
+* Email-driven workflows
+* Data processing and analytics
+* Legacy application evolution
+* AI-assisted application capabilities
+* Intelligent workflow automation
+
+My work involves connecting **business requirements, application logic, data, integrations, and automation** into production-oriented systems.
+
+---
+
+# Data Science & AI
+
+My work in AI is approached from both a **Data Science** and **Software Engineering** perspective.
+
+Rather than treating AI as an isolated technology, I focus on how intelligent methods can become useful components of real applications.
+
+### Machine Learning
+
+`Supervised Learning` · `Predictive Modeling` · `Classification` · `Regression`
+
+### Deep Learning
+
+`Neural Networks` · `Representation Learning` · `Model Evaluation`
+
+### Natural Language Processing
+
+`Text Processing` · `Text Classification` · `Semantic Similarity`
+
+`Information Retrieval` · `NLP Pipelines`
 
 ### Intelligent Applications
 
-Software enhanced with machine learning, NLP, generative AI, semantic capabilities, and intelligent automation.
+`Generative AI` · `Semantic Search` · `AI-Assisted Workflows`
+
+`Intelligent Automation` · `Decision Support`
 
 ---
 
-## Engineering & AI
+# Technology Stack
 
-<div align="center">
-
-```text
-                         SOFTWARE ENGINEERING
-                                  │
-             ┌────────────────────┼────────────────────┐
-             ▼                    ▼                    ▼
-       Applications             APIs              Automation
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  ▼
-                           Data & Analytics
-                                  │
-                    ┌─────────────┴─────────────┐
-                    ▼                           ▼
-             Machine Learning             Deep Learning
-                    │                           │
-                    └─────────────┬─────────────┘
-                                  ▼
-                     Artificial Intelligence
-                                  │
-                    ┌─────────────┴─────────────┐
-                    ▼                           ▼
-             Intelligent Apps             Automation
-```
-
-</div>
-
----
-
-## Technology
-
-### Languages
+## Languages
 
 <div align="center">
 
@@ -138,7 +187,7 @@ Software enhanced with machine learning, NLP, generative AI, semantic capabiliti
 
 </div>
 
-### Frameworks & Application Development
+## Backend & Frameworks
 
 <div align="center">
 
@@ -146,34 +195,46 @@ Software enhanced with machine learning, NLP, generative AI, semantic capabiliti
 
 </div>
 
-### Data, Machine Learning & AI
+## Data & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Science-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OLAP-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Modeling-1e293b?style=for-the-badge"/>
+
+</div>
+
+## Machine Learning & AI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-1e293b?style=for-the-badge"/>
 
 </div>
 
-### Databases, Infrastructure & Tools
+## Engineering & Infrastructure
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OLAP-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation-1e293b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Enterprise%20Systems-1e293b?style=for-the-badge"/>
 
@@ -181,69 +242,110 @@ Software enhanced with machine learning, NLP, generative AI, semantic capabiliti
 
 ---
 
-## Professional Experience
+# From Software Engineering to AI
 
-### Software Engineer / Full Stack Developer
+<div align="center">
 
-**Enterprise Software & Business Systems**
+```text
+                         SOFTWARE ENGINEERING
+                                  │
+              ┌───────────────────┼───────────────────┐
+              ▼                   ▼                   ▼
+        Applications             APIs             Automation
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  ▼
+                            Data & Systems
+                                  │
+                     ┌────────────┴────────────┐
+                     ▼                         ▼
+                 Analytics             Machine Learning
+                                               │
+                                      ┌────────┴────────┐
+                                      ▼                 ▼
+                                Deep Learning         NLP
+                                      │                 │
+                                      └────────┬────────┘
+                                               ▼
+                                     Artificial Intelligence
+                                               │
+                                               ▼
+                                      Intelligent Software
+                                               │
+                                               ▼
+                                           Automation
+```
 
-My professional work spans the development and evolution of **enterprise applications, backend systems, integrations, automation platforms, and data-driven solutions**.
-
-Key areas of experience include:
-
-* Designing and developing backend and full-stack applications
-* Building business applications around real operational workflows
-* Developing REST and SOAP integrations
-* Working with relational and NoSQL databases
-* Designing APIs and application services
-* Automating business and operational processes
-* Working with legacy systems and evolving existing software
-* Building data-processing and analytical workflows
-* Integrating AI capabilities into existing software systems
-
----
-
-## Data & AI Experience
-
-My work with AI is approached from a **software engineering and data science perspective**, focusing on applying intelligent methods to practical systems.
-
-Areas I work with and explore include:
-
-* Data preprocessing and analysis
-* Machine learning and predictive modeling
-* Deep learning
-* Natural language processing
-* Semantic search and information retrieval
-* Text classification and analysis
-* Intelligent decision-support workflows
-* Generative AI applications
-* AI-assisted automation
-* Integrating intelligent capabilities into enterprise applications
+</div>
 
 ---
 
-## Academic Journey
+# Academic Journey
 
-### MSc — Data Science & Artificial Intelligence
+## MSc — Data Science & Artificial Intelligence
 
 **Helwan University**
 Faculty of Computers, Information & Artificial Intelligence
 
-Exploring:
+Current areas of study and exploration include:
 
 `Data Science` · `Machine Learning` · `Deep Learning`
 
 `Natural Language Processing` · `Data Analytics` · `Artificial Intelligence`
 
-with an emphasis on connecting academic concepts with practical software and business applications.
+with a focus on applying academic concepts to practical software and business problems.
 
 ---
 
-## Areas of Interest
+## Academic & Technical Interests
 
 <div align="center">
 
-`Software Architecture`
+### Data Science
+
+`Data Analysis` · `Feature Engineering` · `Statistical Modeling`
+
+### Machine Learning
+
+`Classification` · `Regression` · `Clustering` · `Predictive Modeling`
+
+### Deep Learning
+
+`Neural Networks` · `Representation Learning` · `Model Evaluation`
+
+### Natural Language Processing
+
+`Text Processing` · `Semantic Similarity` · `Information Retrieval`
+
+### Intelligent Systems
+
+`Generative AI` · `Intelligent Automation` · `AI Applications`
+
+</div>
+
+---
+
+# Certifications & Continuous Learning
+
+<div align="center">
+
+**IBM — AI / Data Analysis**
+
+<br>
+
+Continuous development across:
+
+`Software Engineering` · `Data Science` · `Machine Learning` · `Artificial Intelligence`
+
+</div>
+
+---
+
+# Areas of Interest
+
+<div align="center">
+
+`Software Architecture` · `Enterprise Systems`
 
 `Data Science` · `Machine Learning` · `Deep Learning`
 
@@ -259,7 +361,7 @@ with an emphasis on connecting academic concepts with practical software and bus
 
 ---
 
-## Currently Exploring
+# Currently Exploring
 
 <div align="center">
 
@@ -273,7 +375,7 @@ with an emphasis on connecting academic concepts with practical software and bus
 
 ---
 
-## GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
@@ -289,9 +391,23 @@ with an emphasis on connecting academic concepts with practical software and bus
 
 ---
 
+# Contribution Activity
+
 <div align="center">
 
-### Building software. Working with data. Exploring intelligent systems.
+<img src="https://raw.githubusercontent.com/Abdo381/Abdo381/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building software.
+
+### Working with data.
+
+### Exploring intelligent systems.
 
 <br>
 
@@ -303,4 +419,4 @@ with an emphasis on connecting academic concepts with practical software and bus
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:312e81,50:1e293b,100:0f172a&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:312e81,50:1e293b,100:0f172a&section=footer" width="100%"/>
